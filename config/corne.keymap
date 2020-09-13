@@ -42,7 +42,7 @@
                         bindings = <
    &kp  ESC &kp BANG  &kp ATSN  &kp HASH  &kp CURU  &kp PRCT    &kp CRRT  &kp AMPS &kp KMLT &kp LPRN &kp RPRN &kp DEL
    &kp LCTL &trans    &trans    &trans    &trans    &trans      &kp MINUS &kp EQL  &kp LBKT &kp RBKT &kp PIPE &kp GRAV
-   &kp LSFT &trans RGB_MOD    &trans    &trans    &trans    &trans      &trans    &trans   &trans   &trans   &kp BSLH &kp TILD
+   &kp LSFT &trans    &trans    &trans    &trans    &trans      &trans    &trans   &trans   &trans   &kp BSLH &kp TILD
                                       &kp LGUI &trans &kp SPC   &kp RET &trans &kp RALT
                         >;
                 };
